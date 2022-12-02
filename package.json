@@ -1,0 +1,23 @@
+{
+	"name": "taikostatswebscraper",
+	"version": "1.0.0",
+	"description": "Scrapes Score Data from Donder Hiroba",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CactusHydroxide/TaikoStatsWebScraper.git"
+	},
+	"keywords": [],
+	"author": "Clement loy",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CactusHydroxide/TaikoStatsWebScraper/issues"
+	},
+	"homepage": "https://github.com/CactusHydroxide/TaikoStatsWebScraper#readme",
+	"dependencies": {
+		"puppeteer": "^19.3.0"
+	}
+}
